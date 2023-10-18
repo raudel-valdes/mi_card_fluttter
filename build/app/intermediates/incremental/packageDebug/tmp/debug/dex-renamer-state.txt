@@ -1,4 +1,4 @@
-#Wed Oct 18 08:29:50 EDT 2023
+#Wed Oct 18 11:40:23 EDT 2023
 base.0=/Users/rvaldesarias/Documents/dev/projs/udemy/flutter/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
